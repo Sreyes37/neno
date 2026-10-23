@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nenopc"
+       name="neno_pc IPTV Latino &amp; Cine Open Source"
+       version="1.4.1"
+       provider-name="neno_pc">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="inputstream.adaptive" version="20.0.0" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="es">Zona TNT Sports Multi-Mirror, TV Latinoamérica (20 Países) y Cine 1080p Español Latino por neno_pc</summary>
+        <summary lang="en">TNT Sports Multi-Mirror Zone, Latin America TV (20 Countries) and 1080p Latino Movies by neno_pc</summary>
+        <description lang="es">Sistema completo de televisión y cine Open Source desarrollado por neno_pc para Kodi 19, 20 y 21 (v1.4.1):
+- Zona Especial TNT Sports &amp; Deportes en Vivo con Multi-Mirror y Failover Automático Inteligente (TNT Sports Chile HD, TNT Sports Premium, TNT Sports Argentina 1080p, TNT Sports 2, CHV Deportes HD, TNT Sur/Andina, ESPN 1-7, TyC Sports, Fox Sports, Win+, L1 Max, FIFA+).
+- Televisión en Español Latino de los 20 países de Latinoamérica + Repositorios Open Source (IPTV-Org Región LatAm, M3U.CL Chile/Argentina, Free-TV/IPTV GitHub, TDTChannels).
+- Catálogo Ampliado de Películas en 1080p Full HD y 720p HD en Español Latino con enlaces directos + Explorador en vivo de Servidores Open Source (Internet Archive API y PeerTube Fediverse).
+- Selector de servidores/calidades funcional en TV y Películas, verificador multi-mirror, soporte #EXTVLCOPT, favoritos e historial de reproducción.</description>
+        <description lang="en">Complete Latin American IPTV, Multi-Mirror Sports and 1080p Open Source Movies add-on by neno_pc for Kodi 19/20/21.</description>
+        <news>v1.4.1: Actualización de señales activas para TNT Sports Chile HD, TNT Sports Premium y TNT Sports 2; incorporación de CHV Deportes Chile HD; ordenamiento de servidores principales activos con failover instantáneo.</news>
+        <disclaimer lang="es">Este add-on no aloja contenidos propios. Únicamente indexa y reproduce señales de acceso público, servidores open source y listas configuradas por el usuario.</disclaimer>
+        <platform>all</platform>
+        <license>GPL-3.0-or-later</license>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
