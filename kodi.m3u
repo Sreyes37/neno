@@ -1,0 +1,47 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl.xml"
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="⚽ TNT Sports Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TNT_Sports_%28Chile%29_logo_2021.svg/320px-TNT_Sports_%28Chile%29_logo_2021.svg.png" group-title="⚽ Deportes HD",⚽ TNT Sports Chile HD
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="TNTSportsPrem.cl" tvg-name="⚽ TNT Sports Premium Chile (Estadio HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TNT_Sports_%28Chile%29_logo_2021.svg/320px-TNT_Sports_%28Chile%29_logo_2021.svg.png" group-title="⚽ Deportes HD",⚽ TNT Sports Premium Chile (Estadio HD)
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.cl" tvg-name="⚽ TNT Sports 2 Chile (1080p HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TNT_Sports_%28Chile%29_logo_2021.svg/320px-TNT_Sports_%28Chile%29_logo_2021.svg.png" group-title="⚽ Deportes HD",⚽ TNT Sports 2 Chile (1080p HD)
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="⚽ TNT Sports Argentina (Pack Fútbol)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TNT_Sports_%28Chile%29_logo_2021.svg/320px-TNT_Sports_%28Chile%29_logo_2021.svg.png" group-title="⚽ Deportes HD",⚽ TNT Sports Argentina (Pack Fútbol)
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="CHVDeportes.cl" tvg-name="⚽ CHV Deportes Chile (Fútbol Selección)" tvg-logo="https://cdn.m3u.cl/logo/1763_CHV_Deportes.png" group-title="⚽ Deportes HD",⚽ CHV Deportes Chile (Fútbol Selección)
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.la" tvg-name="⚽ ESPN Latinoamérica (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="⚽ Deportes HD",⚽ ESPN Latinoamérica (1080p)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="ESPN2.la" tvg-name="⚽ ESPN 2 Latinoamérica (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="⚽ Deportes HD",⚽ ESPN 2 Latinoamérica (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="⚽ TyC Sports Internacional (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TyC_Sports_logo_2020.svg/512px-TyC_Sports_logo_2020.svg.png" group-title="⚽ Deportes HD",⚽ TyC Sports Internacional (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.es" tvg-name="⚽ Red Bull TV Deportes (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Red_Bull_TV_logo.svg/512px-Red_Bull_TV_logo.svg.png" group-title="⚽ Deportes HD",⚽ Red Bull TV Deportes (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="TNTLatam.la" tvg-name="🔥 TNT Latinoamérica Sur (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="📺 Series & Entretenimiento",🔥 TNT Latinoamérica Sur (1080p)
+http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.la" tvg-name="📺 TNT Series Latinoamérica (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="📺 Series & Entretenimiento",📺 TNT Series Latinoamérica (HD)
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.la" tvg-name="📺 TNT Novelas Latinoamérica (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="📺 Series & Entretenimiento",📺 TNT Novelas Latinoamérica (1080p)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="🇨🇱 13C Cultura & Viajes (1080p)" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 13C Cultura & Viajes (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="13Series.cl" tvg-name="🇨🇱 13T Series & Ficción (720p)" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 13T Series & Ficción (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="13Festival.cl" tvg-name="🇨🇱 13 Festival & Conciertos (1080p)" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 13 Festival & Conciertos (1080p)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-name="🇨🇱 13 Humor (1080p)" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="13Kids.cl" tvg-name="🇨🇱 13 Kids Infantil (1080p)" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 13 Kids Infantil (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="13Realities.cl" tvg-name="🇨🇱 13 Realities (1080p)" tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="BioBioTV.cl" tvg-name="🇨🇱 Bio Bio TV Noticias (1080p)" tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 Bio Bio TV Noticias (1080p)
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ADNTV.cl" tvg-name="🇨🇱 ADN TV Noticias (720p)" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 ADN TV Noticias (720p)
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AgriculturaTV.cl" tvg-name="🇨🇱 Agricultura TV (1080p)" tvg-logo="https://i.imgur.com/sxrYc3Q.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 Agricultura TV (1080p)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AntofagastaTV.cl" tvg-name="🇨🇱 Antofagasta TV Regional (1080p)" tvg-logo="https://i.imgur.com/XIQr0fs.png" group-title="🇨🇱 Chile & Noticias",🇨🇱 Antofagasta TV Regional (1080p)
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trolls3.lat" tvg-name="🎬 Trolls 3: Se Armó la Banda (1080p Latino)" tvg-logo="https://archive.org/services/img/trolls-3_202312" group-title="🎬 Cine Latino 1080p",🎬 Trolls 3: Se Armó la Banda (1080p Latino)
+https://archive.org/download/trolls-3_202312/tr0lls.b4nd.t0g3th3r.2023.hdrip.1080p.latino.mp4
